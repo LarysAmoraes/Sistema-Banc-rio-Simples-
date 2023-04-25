@@ -1,8 +1,6 @@
 # Sistema-Bancario-Simples-V1
 Mini Sistema Bancario
 
-Meu Primeiro Repositório no GitHub
-
 Criado em linguagem Python
 
 - Objetivo geral:
